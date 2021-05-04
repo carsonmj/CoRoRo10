@@ -3,8 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I would like to be a person who thinks 'WHY?', who is not trying to be complacent.\
 <br>🌱 &nbsp;My motto : 'What we dwell on is who we become.'\
-✍️ &nbsp;I am going to be a front-end developer.\
-🤝 &nbsp;I like studying by sharing views and opinions with people.
+<br>✍️ &nbsp;I am going to be a front-end developer.\
+<br>🤝 &nbsp;I like studying by sharing views and opinions with people.\
+<br>📫 How to reach me: **eunoia2040@gmail.com**
 <br><br>
 
 ### 🛠 &nbsp;Tech Stack And Tools
