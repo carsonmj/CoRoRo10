@@ -1,5 +1,5 @@
 ### Hi there 👋
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Now%20Use%20me!&fontSize=70&animation=fadeIn&descSize=40)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Now%20Use%20me!&fontSize=70&animation=fadeIn&descSize=40&fontAlignY=20)
 
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
