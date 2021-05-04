@@ -1,5 +1,4 @@
-### Hi there 👋
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hi,%20I'm%20Minji&fontSize=70&animation=fadeIn&descSize=40&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello,%20I'm%20Minji&fontSize=70&animation=fadeIn&descSize=40&fontAlignY=70)
 
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
