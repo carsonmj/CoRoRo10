@@ -6,7 +6,7 @@
 <br>✍️ &nbsp;I am going to be a front-end developer.\
 <br>🤝 &nbsp;I like studying by sharing views and opinions with people.\
 <br>📫 How to reach me: **eunoia2040@gmail.com**
-<br><br>
+<br><br><br>
 
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
