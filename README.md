@@ -5,7 +5,7 @@
 🌱 &nbsp;My motto : 'What we dwell on is who we become.'\
 ✍️ &nbsp;I am going to be a front-end developer.\
 🤝 &nbsp;I like studying by sharing views and opinions with people.
-
+<br>
 
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
