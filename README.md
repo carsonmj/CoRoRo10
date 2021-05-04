@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello,%20I'm%20Minji&fontSize=70&animation=fadeIn&descSize=40&fontAlignY=70)
 
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I would like to be a person who thinks 'WHY?', who is not trying to be complacent.\
+🌱 &nbsp;My motto : 'What we dwell on is who we become.'\
+✍️ &nbsp;I am going to be a front-end developer.\
+🤝 &nbsp;I like studying by sharing views and opinions with people.
+
+
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
