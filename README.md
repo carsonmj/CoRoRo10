@@ -5,7 +5,7 @@
 🌱 &nbsp;My motto : 'What we dwell on is who we become.'\
 ✍️ &nbsp;I am going to be a front-end developer.\
 🤝 &nbsp;I like studying by sharing views and opinions with people.
-<br>
+<br><br>
 
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
