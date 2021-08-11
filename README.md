@@ -8,6 +8,7 @@
 <br>📫 How to reach me: **eunoia2040@gmail.com**
 <br><br><br>
 
+<!--
 ### 🛠 &nbsp;Tech Stack And Tools
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -48,6 +49,7 @@
   </a> 
 </p>
 <br>
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
